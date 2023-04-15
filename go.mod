@@ -1,3 +1,3 @@
-module github.com/Ametion/utils
+module github.com/Ametion/utils/v2
 
 go 1.20
